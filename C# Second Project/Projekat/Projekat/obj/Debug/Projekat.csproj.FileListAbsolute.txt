@@ -1,0 +1,45 @@
+C:\Users\SJ\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\SJ\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\SJ\source\repos\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\SJ\source\repos\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\SJ\source\repos\Projekat\Projekat\obj\Debug\Projekat.Form1.resources
+C:\Users\SJ\source\repos\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\SJ\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\SJ\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\SJ\source\repos\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\SJ\source\repos\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.Form1.resources
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\obj\Debug\Projekat.Form2.resources
+C:\Users\Stefan\Desktop\vezba\Projekat\Projekat\bin\Debug\Prodavnica.accdb
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.Form1.resources
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.Form2.resources
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\SJ\Desktop\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.pdb
+E:\C#C#C#\C# Second Project\Projekat\Projekat\bin\Debug\Projekat.exe.config
+E:\C#C#C#\C# Second Project\Projekat\Projekat\bin\Debug\Projekat.exe
+E:\C#C#C#\C# Second Project\Projekat\Projekat\bin\Debug\Projekat.pdb
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.csproj.AssemblyReference.cache
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.csproj.SuggestedBindingRedirects.cache
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.Form1.resources
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.Form2.resources
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.exe
+E:\C#C#C#\C# Second Project\Projekat\Projekat\obj\Debug\Projekat.pdb
